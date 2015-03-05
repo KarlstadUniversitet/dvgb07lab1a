@@ -1,0 +1,12 @@
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.exe.config
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.pdb
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.LottoForm.resources
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.Properties.Resources.resources
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.csproj.GenerateResource.Cache
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.exe
+C:\Users\Anton\Documents\Visual Studio 2013\Projects\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.pdb
+C:\Users\Anton\Documents\workspace\DVGB07\Lab1a\Lottoprogram\Lottoprogram\bin\Debug\Lottoprogram.exe.config
+C:\Users\Anton\Documents\workspace\DVGB07\Lab1a\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.exe
+C:\Users\Anton\Documents\workspace\DVGB07\Lab1a\Lottoprogram\Lottoprogram\obj\Debug\Lottoprogram.pdb
